@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
             const tasks = myList.querySelectorAll('li');
             tasks.forEach(task => task.style.backgroundColor = '');
-            firstTask.style.backgroundColor = 'yellow';
- 
+            firstTask.style.backgroundColor = 'yellow'; 
+
     });
 });
